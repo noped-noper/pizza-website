@@ -1,3 +1,28 @@
-h1{
-    font-family: Arial, Helvetica, sans-serif;
+.header {
+    background-color: #ff851b;
+    padding: 20px ;
+    text-align: right;
+    background-image: none, url("./images/pizzaHeader.jpg");
+    background-size: cover;
+    color:#ffffff;
+}
+
+.otherpages {
+    overflow:hidden;
+    background-color: #ffdc00;
+}
+
+.otherpages a {
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    background-color: #ffdc00;
+    color:#ffffff;
+    display:block;
+    padding: 10px;
+}
+
+.otherpages a:hover{
+    color: #ffffff;
+    background-color: #ff851b;
 }
