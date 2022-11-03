@@ -26,3 +26,19 @@
     color: #ffffff;
     background-color: #ff851b;
 }
+
+.bigfont{
+    color: #111111;
+    font: "Lucida Console";
+    text-align: center;
+    font-size: 50px;
+}
+
+.defaultfont{
+    color: #111111;
+    font: Helvetica;
+    text-align:left;
+    padding:50px;
+    font-size: 20px;
+
+}
