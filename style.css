@@ -1,46 +1,56 @@
 .header {
-    background-color: #ff851b;
-    padding: 20px ;
-    text-align: right;
-    background-image: none, url("./images/pizzaHeader.jpg");
-    background-size: cover;
-    color:#ffffff;
+  background-color: #ff851b;
+  padding: 20px;
+  text-align: right;
+  background-image: none, url("./images/pizzaHeader.jpg");
+  background-size: cover;
+  color: #ffffff;
 }
 
 .otherpages {
-    overflow:hidden;
-    background-color: #ffdc00;
+  overflow: hidden;
+  background-color: #ffdc00;
 }
 
 .otherpages a {
-    text-align: center;
-    text-decoration: none;
-    float: left;
-    background-color: #ffdc00;
-    color:#ffffff;
-    display:block;
-    padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  float: left;
+  background-color: #ffdc00;
+  color: #ffffff;
+  display: block;
+  padding: 10px;
 }
 
-.otherpages a:hover{
-    color: #ffffff;
-    background-color: #ff851b;
+.otherpages a:hover {
+  color: #ffffff;
+  background-color: #ff851b;
 }
 
-.bigfont{
-    color: #111111;
-    font: "Lucida Console";
-    text-align: center;
-    font-size: 50px;
+.bigfont {
+  color: #111111;
+  font: "Lucida Console";
+  text-align: center;
+  font-size: 50px;
 }
 
-.defaultfont{
-    color: #111111;
-    font: Helvetica;
-    text-align:left;
-    padding:50px;
-    font-size: 20px;
-
+.defaultfont {
+  color: #111111;
+  font: Helvetica;
+  text-align: left;
+  padding: 50px;
+  font-size: 20px;
+}
+.dummytext {
+  float: left;
+  width: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 2px solid red;
+}
+img{
+  width:250px;
 }
 
 /*.ul{
