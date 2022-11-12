@@ -48,25 +48,3 @@
     font: Helvetica;
     font-size: 30px;
 }*/
-
-.ul.email{
-    list-style-image:url('./images/placeholderimg.png');
-    padding: 50px;
-    font: Helvetica;
-    font-size: 30px;
-}
-
-.ul.phonenmb{
-    list-style-image:url("./images/placeholderimg.png");
-
-}
-
-.ul.adress{
-    list-style-image:url("./images/placeholderimg.png");
-
-}
-
-.ul.orar{
-    list-style-image:url("./images/placeholderimg.png");
-
-}
