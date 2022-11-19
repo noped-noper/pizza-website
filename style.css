@@ -92,7 +92,7 @@ h4{
   font-size: 20px;
 }
 body{
-  background-image: url(/images/Paper.jpg);
+  background-image: url(./images/Paper.jpg);
 }
 h5{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
